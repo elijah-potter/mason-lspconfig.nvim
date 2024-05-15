@@ -71,7 +71,7 @@ return {
   fsharp = { "fsautocomplete" },
   genie = { "vala_ls" },
   geom = { "glsl_analyzer", "glslls" },
-  gitcommit = { "ltex" },
+  gitcommit = { "ltex", "harper_ls" },
   glsl = { "glsl_analyzer", "glslls" },
   go = { "ast_grep", "golangci_lint_ls", "gopls", "harper_ls", "snyk_ls" },
   gohtml = { "tailwindcss" },
